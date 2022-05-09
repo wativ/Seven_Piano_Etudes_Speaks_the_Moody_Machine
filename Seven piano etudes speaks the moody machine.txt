@@ -1,7 +1,5 @@
-﻿Seven Piano Etudes Speaks the Moody Machine (12’)
+﻿Seven Piano Etudes Speaks the Moody Machine (11’)
 
-
-By William A Thompson IV
 Seven Piano Etudes Speaks the Moody Machine was created via machine learning with the goal of hybridizing the musical qualities of three different emotional states of human speech with four different styles of piano music.  Through this process amused, angry or neutral speech has been melded with piano music created by Thelonious Monk, James Booker, Mara Gibson and William Thompson.  These etudes are intended to be performed on one Yamaha Disklavier piano with two performers, one human pianist and one machine player piano.  The Etudes intended to be performed by a human pianist are titled after notable events from the industrial revolution while those intended for machine performance are titled after future events regarding the rise of artificial intelligence as predicted by the author Ray Kurzweil.  In the final etude both perform together representing the singularity.  The contrast between events in the industrial revolution and future events is intended to entice listeners to reconsider each from different perspectives of time.
 
 
